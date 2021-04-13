@@ -1,3 +1,3 @@
 # recommenders
 
-Various collection of web mining and recommender system project!
+Various collection of web mining and recommender system projects!
